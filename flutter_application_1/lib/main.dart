@@ -7,7 +7,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
       options: const FirebaseOptions(
-    apiKey: "AIzaSyAaNDSYkfiAa4Clwb7StbW7luyQRHducgE",
+    apiKey: "your api",
     authDomain: "taskmanager-53880.firebaseapp.com",
     projectId: "taskmanager-53880",
     storageBucket: "taskmanager-53880.firebasestorage.app",
